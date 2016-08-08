@@ -1,0 +1,2 @@
+# General
+Les règles basiques
